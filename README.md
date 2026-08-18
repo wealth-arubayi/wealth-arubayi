@@ -3,8 +3,8 @@
 I'm a Business Intelligence Analyst at Ecobank Nigeria, where I turn regulatory 
 and banking data into decisions that hold up under scrutiny. My stack spans 
 **SQL**, **Azure Databricks** (Delta Lake, PySpark, Unity Catalog), and 
-**SAP BusinessObjects** (Universe Designer, Web Intelligence) — across Oracle 
-Flexcube and Finacle environments.
+**SAP BusinessObjects** (Universe Designer, Web Intelligence) — nearly 3 years 
+deep across Oracle Flexcube and Finacle environments.
 
 I own reporting end-to-end: staging data on the Universe, building in Web 
 Intelligence, and managing promotion from UAT to Production. On the engineering 
@@ -33,7 +33,7 @@ query accuracy** — ~790 lines of SQL/Python.
 - 🔭 I'm currently working on: expanding my Databricks Lakehouse project, plus 
   enhancing operational documentation for E-Invoicing/FIRS, PEP Portal, and 
   FX Data Push workflows at Ecobank
-- 🌱 I'm currently learning: AI/BI Dashboards, Genie Spaces, and advanced Figma micro-interactions
+- 🌱 I'm currently learning: AI/BI Dashboards and Genie Spaces
 - 👯 I'm looking to collaborate on: BI/data engineering projects outside banking — 
   dashboards, pipelines, or data storytelling
 - 🤔 I'm looking for help with: nothing specific right now, but always open to a 
@@ -41,10 +41,10 @@ query accuracy** — ~790 lines of SQL/Python.
 - 💬 Ask me about: Databricks medallion architecture, SAP BusinessObjects, regulatory 
   reporting in banking, or dimensional modeling
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wealth-arubayi/)
-- ⚡ Fun fact: I design and animate multi-state Figma components (like file upload 
-  dropzones with precise micro-interactions) and build responsive prototypes — and 
-  outside the day job, I produce broadcast-quality video for church events and build 
-  interactive faith-and-tech content for kids
+- ⚡ Fun fact: I've spent 3+ years designing and animating multi-state Figma 
+  components (like file upload dropzones with precise micro-interactions) and 
+  building responsive prototypes — and outside the day job, I produce broadcast-quality 
+  video for church events and build interactive faith-and-tech content for kids
 
 🎓 ITIL v4 Foundation certified  
 🌍 Open to BI/data roles beyond banking
