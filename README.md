@@ -22,9 +22,17 @@ dimensional modeling that's ready for both dashboards and auditors.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-- 🔭 I'm currently working on: Databricks pipelines (Bronze → Silver → Gold) for retail 
-  sales analytics, plus enhancing operational documentation for E-Invoicing/FIRS, PEP 
-  Portal, and FX Data Push workflows at Ecobank
+## 🚀 Featured Project
+
+**[Databricks Sales Analytics Lakehouse](https://github.com/wealth-arubayi/Databricks_Sales_Analytics_Lakehouse)**
+Production-grade sales analytics pipeline built on Databricks, following the full 
+Medallion Architecture (Bronze → Silver → Gold). Includes AI-powered dashboards, 
+Unity Catalog governance, and a Genie Space achieving **97% natural-language 
+query accuracy** — ~790 lines of SQL/Python.
+
+- 🔭 I'm currently working on: expanding my Databricks Lakehouse project, plus 
+  enhancing operational documentation for E-Invoicing/FIRS, PEP Portal, and 
+  FX Data Push workflows at Ecobank
 - 🌱 I'm currently learning: AI/BI Dashboards, Genie Spaces, and advanced Figma micro-interactions
 - 👯 I'm looking to collaborate on: BI/data engineering projects outside banking — 
   dashboards, pipelines, or data storytelling
